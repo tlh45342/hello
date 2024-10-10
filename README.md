@@ -1,4 +1,3 @@
 # hello
 
-
-git cline https://tlh45342/hello.git
+git clone https://tlh45342/hello.git
